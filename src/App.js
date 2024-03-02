@@ -12,7 +12,7 @@ function App() {
   const NewsArticles = [];
   React.useEffect(()=>{
     setLoading(true);
-    fetch(`https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=eb1c5cba1f69442087fc3628392e4ee2`)
+    fetch(``)
     .then((res) => res.json())
     .then((data) => setNews(data.articles))
     .then(setLoading(false));
