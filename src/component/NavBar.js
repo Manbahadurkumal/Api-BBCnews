@@ -2,7 +2,7 @@ export default function NavBar(){
   return(
     <nav className="navbar navbar-expand-sm navbar-dark navbar-news">
       <div className="container">
-        <a className="navbar-brand" href="#">
+        <a className="navbar-brand" href="/">
           WWN
         </a>
         <button
@@ -19,27 +19,27 @@ export default function NavBar(){
         <div className="collapse navbar-collapse" id="collapsibleNavId">
           <ul className="navbar-nav ms-auto mt-2 mt-lg-0">
             <li className="nav-item">
-              <a className="nav-link active" href="#" aria-current="page">
+              <a className="nav-link active" href="/" aria-current="page">
                 Politics
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="/">
                 Sports
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="/">
                 Entertainment
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="/">
                 Business
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="/">
                 Weather
               </a>
             </li>

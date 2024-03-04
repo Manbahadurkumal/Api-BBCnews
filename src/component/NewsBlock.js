@@ -1,3 +1,4 @@
+
 export default function NewsBlock(props) {
     console.log(props);
     const { title, description, urlToImage, author, url } =
