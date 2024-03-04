@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Api-BBCnews/static/css/main.eb003e06.css",
+    "main.js": "/Api-BBCnews/static/js/main.29013656.js",
+    "static/js/453.d65ff218.chunk.js": "/Api-BBCnews/static/js/453.d65ff218.chunk.js",
+    "index.html": "/Api-BBCnews/index.html",
+    "main.eb003e06.css.map": "/Api-BBCnews/static/css/main.eb003e06.css.map",
+    "main.29013656.js.map": "/Api-BBCnews/static/js/main.29013656.js.map",
+    "453.d65ff218.chunk.js.map": "/Api-BBCnews/static/js/453.d65ff218.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb003e06.css",
+    "static/js/main.29013656.js"
+  ]
+}
